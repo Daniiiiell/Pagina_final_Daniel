@@ -262,4 +262,7 @@ justify-content: center;
     #check:checked ~ .menu{
         right:0;
     }
+    .contenidoCuerpo img{
+        height:150px;
+    }
 }
