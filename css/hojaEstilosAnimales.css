@@ -281,4 +281,7 @@ justify-content: center;
     #check:checked ~ .menu{
         right:0;
     }
+    .animalImg{
+        height: 150px;
+    }
 }
